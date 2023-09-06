@@ -3,5 +3,6 @@
 - For Python Projects: https://github.com/Himanshi-Mishra/Python-Projects
 - For Excel Projects:  https://github.com/Himanshi-Mishra/Excel-Projects
 - For Tableau Projects:  https://github.com/Himanshi-Mishra/Tableau-Projects
+- For PowerBI Projects:https://github.com/Himanshi-Mishra/PowerBI_Reports
 - To reach out: https://www.linkedin.com/in/himanshi-mishra-analyst/
 
